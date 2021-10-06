@@ -9,7 +9,7 @@ const Imagen = () => {
       src={urlImg}
       alt="texto"
       width="230px"
-      height="220px"
+      height="{altura}"
     />
   );
 };
